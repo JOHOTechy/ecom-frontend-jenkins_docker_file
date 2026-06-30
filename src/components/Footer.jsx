@@ -40,7 +40,7 @@ export default function Footer() {
 
           {/* Newsletter */}
           <div className="footer__col">
-            <h4 className="footer__heading">Stay Updated</h4>
+            <h4 className="footer__heading">Stay tuned</h4>
             <p className="footer__newsletter-text">Subscribe for exclusive deals and early drops.</p>
             <div className="footer__newsletter">
               <input type="email" placeholder="your@email.com" className="footer__input" id="newsletter-email" />
